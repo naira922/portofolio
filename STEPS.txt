@@ -1,0 +1,9 @@
+1: Create files.
+2: prepare links [ main link style - link fonts(google font) - link icons].
+3: Standardization elements.
+4: Headr.
+5: Home page.
+6: Sections
+7: footer.
+8: Media query.
+9: Git Hub.
